@@ -1,3 +1,3 @@
-#ReactJs web page <br /> Showing life history and achievements of Famous Women in Engineering along with a sign-up form page <br />
+#ReactJs web page for capstone project
 Front end 
 "# Capstone" 
